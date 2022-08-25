@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kjsieit_app</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="google_btn">Google</string>
+    <string name="Login_btn">Login</string>
+    <string name="login_page_img">intro_img</string>
+    <string name="text_or_login">OR</string>
+
+</resources>
